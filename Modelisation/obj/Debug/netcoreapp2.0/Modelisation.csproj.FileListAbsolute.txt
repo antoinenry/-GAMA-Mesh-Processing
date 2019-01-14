@@ -1,0 +1,11 @@
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\obj\Debug\netcoreapp2.0\Modelisation.csprojAssemblyReference.cache
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\obj\Debug\netcoreapp2.0\Modelisation.csproj.CoreCompileInputs.cache
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\obj\Debug\netcoreapp2.0\Modelisation.AssemblyInfoInputs.cache
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\obj\Debug\netcoreapp2.0\Modelisation.AssemblyInfo.cs
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\bin\Debug\netcoreapp2.0\Modelisation.deps.json
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\bin\Debug\netcoreapp2.0\Modelisation.runtimeconfig.json
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\bin\Debug\netcoreapp2.0\Modelisation.runtimeconfig.dev.json
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\bin\Debug\netcoreapp2.0\Modelisation.dll
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\bin\Debug\netcoreapp2.0\Modelisation.pdb
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\obj\Debug\netcoreapp2.0\Modelisation.dll
+C:\Users\anthenry\source\repos\Modelisation\Modelisation\obj\Debug\netcoreapp2.0\Modelisation.pdb
